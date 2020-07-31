@@ -1,8 +1,8 @@
 <html>
-<body>
+<body background="blue">
 
 <center>
-<h2>Hello World!</h2>
+<h2>DevOps CICD Project #1 Completed</h2>
 <h3>This is a website made by me !</h3>
 <h4>Website Details:</h4>
 <h5>Business Name : webapps</h5>
