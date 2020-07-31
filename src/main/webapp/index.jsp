@@ -1,5 +1,5 @@
 <html>
-<body background="blue">
+<body bgcolor="orange">
 
 <center>
 <h2>DevOps CICD Project #1 Completed</h2>
